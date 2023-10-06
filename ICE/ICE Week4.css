@@ -1,0 +1,51 @@
+body {
+    background-color: pink;
+}
+#content {
+    max-width: 800px;
+    background-color: bisque;
+    margin: 0 auto;
+}
+h1 {
+    font-family: arial;
+    font-size: 2em;
+    text-align: center;
+    color: white;
+}
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1em;
+    width: 50%;
+    margin: 10px auto;
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
+h3 {
+    font-family: arial;
+    font-size: 1em;
+    width: 50%;
+    margin: 10px auto;
+    padding: 10px;
+    text-align: center;
+    color: black;
+}
+img {
+    width: 25%;
+    display: block;
+    margin: 0 auto;
+}
+p {
+    font-family: arial;
+    width: 50%;
+    margin: 10px auto;
+    padding: 10px;
+    /* text-align: center; */
+}
+footer {
+    color: black;
+
+}
+footer p {
+    text-align: center;
+}
