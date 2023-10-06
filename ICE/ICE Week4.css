@@ -6,10 +6,30 @@ body {
     background-color: bisque;
     margin: 0 auto;
 }
+<<<<<<< HEAD
+=======
+a{
+    background-color:lightblue;
+    color: rgb(71, 68, 69);
+    text-decoration: none;
+    padding: 10px;
+    margin: 5px;
+    text-align: center;
+}
+a:hover {
+    background-color: darkgray;
+    color: white;
+}
+nav {
+    display: flex;
+    justify-content: center;
+}
+>>>>>>> c903e6745e2cda2d55dd291ed68e486b375514e9
 h1 {
     font-family: arial;
     font-size: 2em;
     text-align: center;
+<<<<<<< HEAD
     color: white;
 }
 h2 {
@@ -29,6 +49,8 @@ h3 {
     padding: 10px;
     text-align: center;
     color: black;
+=======
+>>>>>>> c903e6745e2cda2d55dd291ed68e486b375514e9
 }
 img {
     width: 25%;
