@@ -46,6 +46,15 @@ h3 {
     text-align: center;
     color: black;
 }
+h4 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.5em;
+    width: 50%;
+    margin: 10px auto;
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
 img {
     width: 25%;
     display: block;
