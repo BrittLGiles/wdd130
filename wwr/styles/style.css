@@ -62,3 +62,10 @@ footer a:hover {
     background-color: #E26D5A;
     color: black;
 }
+.icon {
+    width: 80px;
+}
+/*--primary-color: #1F1A38 purple  ;
+--secondary-color: #D4AC0D yellow;
+--accent1-color: #B6D094 green;
+--accent2-color: #E26D5A orange;*/
