@@ -14,3 +14,15 @@ nav a {
 main section {
     text-align: center;
 }
+#background {
+    height: 725px;
+}
+body {
+    background-color: #B6D094;
+}
+header {
+    background-color: #E26D5A;
+}
+nav a:hover {
+    background-color: #D4AC0D;
+}
