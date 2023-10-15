@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Skranji&family=Dosis');
 #content {
     max-width: 1600px;
     margin: 0 auto;
@@ -25,9 +26,11 @@ main section {
 }
 body {
     background-color: white;
+    font-family: Dosis;
 }
 header {
     background-color: #E26D5A;
+    font-family: Skranji;
 }
 nav a:hover {
     background-color: #D4AC0D;
@@ -35,6 +38,7 @@ nav a:hover {
 }
 .home-title {
     color: black;
+    font-family: Skranji;
 }
 h4 {
     color: #E26D5A;
@@ -43,6 +47,7 @@ h4 {
     background-color:#D4AC0D;
     color: black;
     text-decoration: none;
+    font-family: Skranji;
 }
 .book:hover, .join:hover {
     background-color:#B6D094;
@@ -51,6 +56,7 @@ h4 {
 .msg {
     background-color:#1F1A38;
     color: white;
+    font-family: Dosis;
 }
 footer {
     background-color: #1F1A38;
