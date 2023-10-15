@@ -27,6 +27,8 @@ main section img {
 #background {
     background-color:#E26D5A;
     height: 725px;
+    margin-top: 200px;
+    margin-bottom: 100px;
 }
 body {
     background-color: white;
@@ -71,9 +73,13 @@ h4 {
 }
 .card-img {
     border: 10px solid #1F1A38;
+    margin-top: 200px;
 }
 .rivers-card, .camping-card, .rapids-card {
     margin-top: 200px 0;
+}
+.mountains {
+    margin-bottom: 200px;
 }
 .msg {
     background-color:#1F1A38;
@@ -82,6 +88,7 @@ h4 {
     font-size: 1.5em;
     line-height: 1.5em;
     padding: 35px;
+    margin-bottom: 250px;
 }
 .msg p {
     padding-bottom: 15px;
