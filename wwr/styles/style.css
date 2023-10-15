@@ -76,24 +76,3 @@ footer p a:hover {
 .icon {
     width: 80px;
 }
-
-@import url('https://fonts.googleapis.com/css2?family=Skranji&family=Dosis');
-:root {
-  --primary-color: #1F1A38   ;
-  --secondary-color: #D4AC0D ;
-  --accent1-color: #B6D094;
-  --accent2-color: #E26D5A;
- 
-  --heading-font: "Skranji";
-  --paragraph-font: "Dosis";
-
-  --headline-color-on-white: #1F1A38;  /* headlines on a white background */ 
-  --headline-color-on-color: white; /* headlines on a colored background */ 
-  --paragraph-color-on-white: #E26D5A; /* paragraph text on a white background */ 
-  --paragraph-color-on-color: white; /* paragraph text on a colored background */ 
-  --paragraph-background-color: #1F1A38;
-  --nav-link-color: #1F1A38;
-  --nav-background-color: #B6D094;
-  --nav-hover-link-color: white;
-  --nav-hover-background-color: #D4AC0D;
-}
