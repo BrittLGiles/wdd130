@@ -9,6 +9,7 @@ nav {
 }
 nav a{
     text-align: center;
+    justify-self: center;
     color: white;
     text-decoration: none;
     padding: 35px;
@@ -172,8 +173,8 @@ footer .social img {
     padding-top: 15px;
 }
 .logo {
-    height: 100px;
-    width: 100px;
+    height: 80px;
+    width: 80px;
 }
 #logo_link {
     padding-top: 5px;
