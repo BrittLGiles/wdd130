@@ -41,7 +41,7 @@ img {
   display: block;
   margin: 0 auto;
 }
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4 {
   font-family: var(--heading-font);
   color: var(--headline-color-on-white);
 }
@@ -64,6 +64,11 @@ header > h1, header > h2 {
 }
 
 p {
+  font-family: var(--paragraph-font);
+  color: var(--paragraph-color-on-white);
+  padding: 1em;
+}
+ol {
   font-family: var(--paragraph-font);
   color: var(--paragraph-color-on-white);
   padding: 1em;
