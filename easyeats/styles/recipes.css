@@ -25,8 +25,8 @@ nav a:hover {
     color: white;
 }
 .home-title {
-    color: #96c93b;
-    font-family: Skranji, serif, Helvetica;
+    color: #795C32;
+    font-family: "IM Fell French Canon SC";
     font-size: 2em;
     margin-top: 100px;
     margin-bottom: -25px;
@@ -67,13 +67,26 @@ body {
 }
 h2 {
     margin: 0;
-    color: #795C32;
+    color: #96c93b;
+}
+ul {
+    list-style-type: none;
+    text-align: left;
+    color: #ff9797;
+}
+li {
+    margin: 15px 0;
 }
 .home-grid {
     display: grid;
     grid-template-columns: repeat(7, 1fr);
 }
-
+.recipe-img {
+    border: 10px solid #A42212;
+    margin-top: 150px;
+    max-width: 100%;
+    height: auto;
+}
 .Recipe_1 {
     grid-column: 2/4;
     grid-row: 2/3;
@@ -89,33 +102,6 @@ h2 {
 .Recipe_4 {
     grid-column: 5/7;
     grid-row: 3/4;
-}
-.Recipe_5 {
-    grid-column: 2/4;
-    grid-row: 4/5;
-}
-.Recipe_6 {
-    grid-column: 5/7;
-    grid-row: 4/5;
-}
-.Recipe_7 {
-    grid-column: 2/4;
-    grid-row: 5/6;
-}
-.Recipe_8 {
-    grid-column: 5/7;
-    grid-row: 5/6;
-}
-.recipe-img {
-    border: 10px solid #A42212;
-    transition: transform .5s;
-    box-shadow: 5px 5px 10px #6f7364;
-    margin-top: 150px;
-    width: 100%;
-}
-.recipe-img:hover {
-    opacity: .6;
-    transform: scale(1.1);
 }
 footer {
     background-color: #ffe6aa;
