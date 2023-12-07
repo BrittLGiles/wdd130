@@ -103,6 +103,30 @@ li {
     grid-column: 5/7;
     grid-row: 3/4;
 }
+.Recipe_5 {
+    grid-column: 2/4;
+    grid-row: 4/5;
+}
+.Recipe_6 {
+    grid-column: 5/7;
+    grid-row: 4/5;
+}
+.Recipe_7 {
+    grid-column: 2/4;
+    grid-row: 5/6;
+}
+.Recipe_8 {
+    grid-column: 5/7;
+    grid-row: 5/6;
+}
+.Recipe_9 {
+    grid-column: 2/4;
+    grid-row: 6/7;
+}
+.Recipe_10 {
+    grid-column: 5/7;
+    grid-row: 6/7;
+}
 footer {
     background-color: #ffe6aa;
     color: white;
